@@ -1414,5 +1414,29 @@
     "cover": "sp-dusttale.png",
     "hash": "sha256:55e0b16de7e97e8996c71237d186e762e972151173641ab8dbf79779f52a873d",
     "uploaded_at": "2026-11-15T01:45:00Z"
+  },
+  {
+    "id": "eto-01",
+    "title": "026 Plan A-2 v3",
+    "author": "MC-Hooray",
+    "author_contacts": {},
+    "game": "Ending Time Octel",
+    "tags": [
+      "ETO",
+      "八重终结"
+    ],
+    "series": {
+      "name": "Ending Time Octel",
+      "index": 1,
+      "total": 1
+    },
+    "authorization": "authorized_repost",
+    "resource_license": "CC0",
+    "file": "eto-01.mp3",
+    "format": "mp3",
+    "duration": 405,
+    "cover": "eto.png",
+    "hash": "sha256:8d03290b97f2b3350d20ee569203604f1c77dd90c0310e17928bcec87c1f8e21",
+    "uploaded_at": "2026-11-20T07:28:44Z"
   }
 ]
